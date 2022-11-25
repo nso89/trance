@@ -129,3 +129,8 @@ Consider another branch when more than five edits have been made in Add, Changed
 
 ### Removed:
 - Aurosonic & Susana - Weather The Storm.
+
+20221125-103739
+---------------
+### Changed:
+Reach Out To Me (Faruk Sabanci Edit) --> Cathy Burton - Reach Out To Me (Faruk Sabanci Edit).
