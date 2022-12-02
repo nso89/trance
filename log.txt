@@ -169,4 +169,11 @@ Elles De Graaf - Lighthouse (Yoshi & Razner Edit)
 20221202-111852
 ---------------
 ### Changed:
-Ben Gold, Christina Novelli - All Or Nothing ft. Christina Novelli (Original Edit) -> Ben Gold, Christina Novelli - All Or Nothing (Original Edit)
+Ben Gold, Christina Novelli - All Or Nothing ft. Christina Novelli (Original Edit) -> Ben Gold & Christina Novelli - All Or Nothing (Original Edit)
+Beat & Voice ft. Angel Falls - Sunshine (Extended Edit) --> Beat & Voice ft. Angel Falls - Sunshine (Original Edit)
+Frainbreeze & Emma Horan - We Still Have Each Other (Original Edit) --> Frainbreeze & Emma Horan - We Still Have Each Other (Extended Edit)
+
+20221202-120036
+---------------
+### Changed:
+, --> &
