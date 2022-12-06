@@ -30,13 +30,13 @@ A.R.D.I. & Neev Kennedy - Crush The Unseen
 Above & Beyond - Bittersweet & Blue (Above & Beyond Extended Club Edit)
 Above & Beyond - Blue Monday (Extended Edit)
 Above & Beyond - Reverie (Above & Beyond Extended Club Edit)
-Above & Beyond & Gareth Emery Pres. Oceanlab - On A Good Day (Metropolis)
+Above & Beyond & Gareth Emery pres. Oceanlab - On A Good Day (Metropolis)
 Above & Beyond ft. Richard Bedford - Sun & Moon (Above & Beyond Club Edit)
 Above & Beyond ft. Zoe Johnston - Love Is Not Enough
 Above & Beyond ft. Zoe Johnston - No One On Earth (Gabriel & Dresden Edit)
-Above & Beyond Pres. Oceanlab - Satellite
-Above & Beyond Pres. Tranquility Base - Oceanic
-Above & Beyond Pres. Tranquility Base - Oceanic (Sean Tyas Edit)
+Above & Beyond pres. Oceanlab - Satellite
+Above & Beyond pres. Tranquility Base - Oceanic
+Above & Beyond pres. Tranquility Base - Oceanic (Sean Tyas Edit)
 Above & Beyond Vs. Andy Moor - Air For Life
 Above & Beyond With Gareth Emery - On A Good Day (Metropolis)
 Achilles & Jessie Lee Thetford - For The Best
@@ -85,7 +85,7 @@ Alex M.O.R.P.H. ft. Hannah - When I Close My Eyes (Aly & Fila Edit)
 Alex M.O.R.P.H. ft. Natalie Gioia - The Reason (Club Edit)
 Alex M.O.R.P.H. ft. Roberta Harrison - Photograph
 Alex M.O.R.P.H. ft. Sylvia Tosun - An Angel's Love
-Alex M.O.R.P.H. Pres. Everest - Oree (Original Edit)
+Alex M.O.R.P.H. pres. Everest - Oree (Original Edit)
 Alex M.O.R.P.H. Vs. Cassandra Fox Every Purple Morning (Odelaf Mashup)
 Alex Wright - Mnemba
 Alexander Popov & Novan ft. Brandon Mignacca - Brighter
@@ -147,7 +147,7 @@ Andrew Rayel & Emma Hewitt - My Reflection (Extended Edit)
 Andrew Rayel & Emma Hewitt - Tonight (Extended Edit)
 Andrew Rayel ft. Jano - How Do I Know (Club Edit)
 Andy Moor - Halcyon (Original Edit)
-Andy Moor & Adam White Pres. Whiteroom - The Whiteroom (Original Edit)
+Andy Moor & Adam White pres. Whiteroom - The Whiteroom (Original Edit)
 Andy Moor & Orkidea - Year Zero (Original Edit)
 Arctic Moon - Data Ghost (Extended Edit)
 Arksun - Arisen
@@ -160,15 +160,15 @@ Armin Van Buuren - Control Freak (Sander Van Doorn Edit)
 Armin Van Buuren - I Live For That Energy (Asot 800 Anthem)
 Armin Van Buuren - Sail
 Armin Van Buuren & Dj Shah - Going Wrong (M.O.R.P.H. B2b Woody Van Eyden Edit)
-Armin Van Buuren & Susana - Home With You (Armin Van Buuren Pres. Rising Star Edit)
+Armin Van Buuren & Susana - Home With You (Armin Van Buuren pres. Rising Star Edit)
 Armin Van Buuren Feat. Sam Martin - Wild Wild Son (Richard Durand Edit)
 Armin Van Buuren ft. Christian Burns - This Light Between Us (Armin Van Buuren's Great Strings Edit)
 Armin Van Buuren ft. Gabriel & Dresden - Zocalo
 Armin Van Buuren ft. Jan Vayne - Serenity
-Armin Van Buuren ft. Justine Suissa - Burned With Desire (Armin Van Buuren Pres. Rising Star Vocal Edit)
+Armin Van Buuren ft. Justine Suissa - Burned With Desire (Armin Van Buuren pres. Rising Star Vocal Edit)
 Armin Van Buuren ft. Sharon Den Adel - In And Out Of Love
 Armin Van Buuren ft. Susana - Shivers
-Armin Van Buuren Pres. Rising Star - Clear Blue Moon
+Armin Van Buuren pres. Rising Star - Clear Blue Moon
 Armin Van Buuren Vs. Rank 1 ft. Kush - This World Is Watching Me
 Armin Van Buuren Vs. Shapov - The Last Dancer
 Armin Van Buuren Vs. Vini Vici ft. Hilight Tribe - Great Spirit
@@ -223,7 +223,7 @@ B.B.E. - Seven Days & One Week (Kai Tracid Edit)
 Bart Claessen - First Light
 Bart Claessen - Playmo (1st Play)
 Bart Claessen & Dave Schiemann - Madness (I Prefer This Edit)
-Bart Claessen Pres. Barthezz - Infected
+Bart Claessen pres. Barthezz - Infected
 Bartlett & Dyor - Floating Beyond (Lange Edit)
 Bas & Ram - Speed Of Light (Remastered 2018)
 Bass Sky - Take Me Back
@@ -436,7 +436,7 @@ Dj Shah ft. Adrina Thorpe - Who Will Find Me (Main Edit)
 Dj's United - Remember Love
 Djt - Like A Melody (Extended Edit)
 Dmitry Strochenko & Maxine - Daylight Snow
-Dns Project Pres. Whiteglow - Airbourne (Original Edit)
+Dns Project pres. Whiteglow - Airbourne (Original Edit)
 Dreamy & Dee Dee - In My Heart
 Driftmoon - Bittersweet (Temple One Edit)
 Driftmoon & Ana Criado - One Little Step
@@ -488,9 +488,9 @@ Ferrin & Low - Breeze (Woody Van Eyden Extended Edit)
 Ferrin & Morris And Hysteria! - Horizon (Alan Morris Edit)
 Ferry Corsten - For Your Mind
 Ferry Corsten ft. Betsie Larkin - Made Of Love
-Ferry Corsten Pres. Gouryella - Anahera
-Ferry Corsten Pres. Gouryella - Surga
-Ferry Corsten Pres. Gouryella - Venera (Vee's Theme)
+Ferry Corsten pres. Gouryella - Anahera
+Ferry Corsten pres. Gouryella - Surga
+Ferry Corsten pres. Gouryella - Venera (Vee's Theme)
 Ferry Corsten Vs. Armin Van Buuren - Brute
 Ferry Tayle - A New Frequency
 Ferry Tayle - Awaken Joy
@@ -515,7 +515,7 @@ Fred Baker - Forever Friends (Sensation Anthem 2006)
 Fred Baker Vs. Greg Nash - Lunar Eclipse (Original Edit)
 Free Radical - Surreal (En-Motion Edit)
 Gabriel & Dresden ft. Sub Teal - Something Bigger (Elevven Extended Edit)
-Gabriel & Dresden Pres. Motorcycle - As The Rush Comes
+Gabriel & Dresden pres. Motorcycle - As The Rush Comes
 Gaia - Empire Of Hearts
 Gaia - J'ai Envie De Toi
 Gaia - Status Excessu D
@@ -714,9 +714,9 @@ Masters & Nickson ft. Justine Suissa - Out There (Sean Tyas Edit)
 Mat Zo - Lucky Strike
 Mat Zo - The Next Chapter (Extended Edit)
 Matt Cassar - 7 Days And 1 Week (Myon & Shane 54 Monster Edit)
-Matt Darey Pres. Li Kwan - Point Zero (Original Edit)
-Matt Darey Pres. Mash Up - Liberation (Ferry Corsten Edit)
-Matt Darey Pres. Urban Astronauts ft. Kate Louise Smith - See The Sun (Aurosonic Edit)
+Matt Darey pres. Li Kwan - Point Zero (Original Edit)
+Matt Darey pres. Mash Up - Liberation (Ferry Corsten Edit)
+Matt Darey pres. Urban Astronauts ft. Kate Louise Smith - See The Sun (Aurosonic Edit)
 Matt Hardwick Vs. Smith & Pledger - Connected (Original Edit)
 Matt Hardwick Vs. Smith & Pledger - Day One (Original Edit)
 Mauro Picotto - Komodo (Megavoices Claxixx Edit)
@@ -752,7 +752,7 @@ Miroslav Vrlik - Love In Us (Kaimo K's Uplifting Touch)
 Misja Helsloot Vs. Xijaro & Pitch - Moving Souls (Extended Edit)
 Moonman - Don't Be Afraid '99 (Ferry Corsten Edit)
 Moonsouls & Marjan - Save You
-Mr. Sam Vs. Tim Coltrane Pres. The Tribute - One More Day (Original Edit)
+Mr. Sam Vs. Tim Coltrane pres. The Tribute - One More Day (Original Edit)
 Myde & Ellie Lawson - Feeling It All
 Myde & Hanna Finsen - My Heart Stood Still
 Myde & Sharon Valerona - For Better Days
@@ -816,7 +816,7 @@ Patrik Humann & Isabel Oliver - Between The Truth & The Lie (Beatsole Edit)
 Paul Denton - Ocean Of Time
 Paul Denton & Audrey Gallagher - Beneath The Stars (Extended Edit)
 Paul Icz ft. Luscjo - Where The Sky Touches The Sun (Original Edit)
-Paul Miller Pres. Motion Blur - Liquidity (Suncatcher Edit)
+Paul Miller pres. Motion Blur - Liquidity (Suncatcher Edit)
 Paul Oakenfold - Southern Sun (Tiesto Edit)
 Paul Oakenfold ft. Carla Werner - Southern Sun (Tiesto Edit)
 Paul Trainer - Outbound
@@ -894,7 +894,7 @@ Ram - Stacatto (Unsigned)
 Ram & Susana - Northern Star (Ciaran Mcauley Edit)
 Ram & Susana - Ramelia (Tribute To Amelia)
 Ram & Susana - Someone Like You (Reorder Extended Edit)
-Ram & Susana Pres. Tales Of Life - You Are Enough
+Ram & Susana pres. Tales Of Life - You Are Enough
 Ramin Arab - Crystal (Extended Edit)
 Ramin Arab & Sharon Valerona - Windstorm
 Randy Katana - Play It Louder
@@ -935,7 +935,7 @@ Reflekt ft. Delline Bass - Need To Feel Loved (The Thrillseekers Edit)
 Relocate - Lost Myself In You (Katrin's World Edit)
 Rene Ablaze ft. Sarah De Warren - The One
 Reorder & Katty Heath - Meteorite (James De Torres Edit)
-Rex Mundi ft. Susana - Nothing At All (Mark Sixma Pres. M6 Edit)
+Rex Mundi ft. Susana - Nothing At All (Mark Sixma pres. M6 Edit)
 Rhys Elliott - Desolate
 Richard Durand - Always The Sun (Eximinds Edit)
 Richard Durand - Evolution
@@ -953,7 +953,7 @@ Robert Nickson - Spiral 2015 (Original Edit)
 Robert Nickson & Ellie Lawson - The Way That U R
 Robert Nickson ft. Cat Martin - Every Sun
 Roger Shah & Genie O'malley - Touch The Feelz (Extended Uplifting Edit)
-Roger Shah Pres. Sunlounger - White Sand
+Roger Shah pres. Sunlounger - White Sand
 Roger Shah Presents Sunlounger Feat. Zara - Lost (Club Mix)
 Roman Messer & Christina Novelli - Frozen (Full Fire Edit)
 Ronksi Speed & Alan Morris - Nighttime (Steve Allen Edit)
@@ -999,7 +999,7 @@ Sean Tyas - Unleash
 Sean Tyas & Bjorn Akesson - Zahi
 Sean Tyas & Darren Porter - The Potion (Extended Edit)
 Sean Tyas & Niko Zografos - Drop Two
-Sean Tyas Pres. Logistic - One More Night Out
+Sean Tyas pres. Logistic - One More Night Out
 Seawayz & Sollito & Heard Right And Lauren Ni Chasaide - Never End
 Seawayz & Sollito & Jillenhans & Cathy Burton - Serenade
 Sebastian Brandt - 450
@@ -1019,7 +1019,7 @@ Simon O'shine - Your Distant World (Original Edit)
 Simon Patterson & Magnus - Evoke (Extended Edit)
 Simon Patterson ft. Lucy Pullin - Now I Can Breathe Again
 Simon Paul & Lost Witness & Tracey Carmen - Happiness Happening 2014 (Allen & Envy & Sunset Edit)
-Simon Paul Pres. Lost Witness - Happiness Happening 2014 (Allen & Envy & Sunset Edit)
+Simon Paul pres. Lost Witness - Happiness Happening 2014 (Allen & Envy & Sunset Edit)
 Sion Rae - Paradiso
 Skylex & Lucid Blue - Believer
 Skylex & Lucid Blue - Believer (Last Soldier & Ramin Arab Edit)
@@ -1123,7 +1123,7 @@ Sunny Lax - Misgrey (Adam Nickey Edit)
 Sunny Lax - Vanesse (Original Edit)
 Sunset & Hanna Finsen - Wired By The Fire
 Super8 - Alba (Original Edit)
-Super8 & P.O.S. Pres. Aalto - 5
+Super8 & P.O.S. pres. Aalto - 5
 Super8 & Tab -  Irufushi (Sean Tyas Edit)
 Super8 & Tab - Helsinki Scorchin' (Original Edit)
 Super8 & Tab - Into
@@ -1151,7 +1151,7 @@ Talla 2xlc Feat Skysurfer - Terra Australis (Jorn Van Deynhoven Edit)
 Talla 2xlc Vs. Carl B - Giving Up Giving In (Sean Tyas Edit)
 Talla 2xlc Vs. Sean Tyas - Heart To Heart (Sean Tyas Edit)
 Tatana & Tyas Present Tnt - Children
-Tau-Rine Pres. Mike Bound - Revival
+Tau-Rine pres. Mike Bound - Revival
 Tejaswi - Midnight Sun (Original Edit)
 Temple One - Forever Searching (Adam Nickey Edit)
 Temple One & Katty Heath - In Everything I See
@@ -1172,8 +1172,8 @@ The Space Brothers - Shine 2000 (Signum Club Edit)
 The Space Brothers & Mark Sherry - Let It Come (Darren Porter Edit)
 The Thrillseekers - Synaesthesia (En-Motion Edit)
 The Thrillseekers - Synaesthesia (Ferry Corsten Edit)
-The Thrillseekers Pres. Hydra - Amber (Skylex Edit)
-The Thrillseekers Pres. Hydra - Standing On The Edge Of Space
+The Thrillseekers pres. Hydra - Amber (Skylex Edit)
+The Thrillseekers pres. Hydra - Standing On The Edge Of Space
 The Visions Of Shiva - How Much Can You Take (Physical)
 Thirdwave & Stine Grove - Electric Love
 Thomas Bronzwaer - Shadow World (Original Edit)
@@ -1230,7 +1230,7 @@ Ultimate - If We Were
 Ultimate - Mapusa
 Ultimate - Route 77
 Ummet Ozcan - Timewave Zero (Original Edit)
-Under Sun - Capoeira (Airbase Pres. Scarab Edit)
+Under Sun - Capoeira (Airbase pres. Scarab Edit)
 Vascotia - Verano (Sean Tyas Edit)
 Venom One - Elysia (Extended Edit)
 Veracocha - Carte Blanche
