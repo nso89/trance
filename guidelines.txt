@@ -1,5 +1,3 @@
-Guidelines
-----------
 For each track:
     * Remove Whitespace
     * Sort Alphabetically (Sort Ascending in VScode)
