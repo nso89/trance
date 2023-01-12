@@ -3,9 +3,13 @@ For each track:
     * Sort Alphabetically (Sort Ascending in VScode)
     * Title Case
     * Change: 
-          Mix --> Edit
+          Original Mix --> Original Edit
+          Extended Mix --> Extended Edit
+          Club Mix --> Club Edit
           Pres. --> pres.
+          Remix --> Edit
           Ft. --> ft.
+          VS. or Vs. --> vs.
           And --> &
           [] --> ()
 
